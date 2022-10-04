@@ -12,5 +12,15 @@ App that lets people find used or new instruments being sold close to them by lo
 - **Market:**
 - **Habit:**
 - **Scope:**
-### **Product Spec**
-1.
+## **Product Spec**
+### 1. User Stories (Required and Optional)
+**Required Must-Have Stories**
+- l
+- l
+**Optional Nice-to-Have Stories**
+-w
+### 2. Screens
+
+### 3. Navigation
+
+## Wireframes
