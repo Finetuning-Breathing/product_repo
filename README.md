@@ -18,7 +18,8 @@ App that lets people find used or new instruments being sold close to them by lo
 - l
 - l
 **Optional Nice-to-Have Stories**
--w
+- w
+- e
 ### 2. Screens
 
 ### 3. Navigation
