@@ -72,3 +72,32 @@ Optional:
 
 
 ![DigitalWireframe](https://user-images.githubusercontent.com/65302664/193961103-004d4d75-de5a-4de6-afd5-6b06928bce4b.png)
+
+## Schema
+
+### **Models**
+Post
+|**Property**|**Type**|**Description**|
+|------------|--------|---------------|
+| UserEmail  | String |
+| UserPass | String |
+| UserImg | file |
+| CardNum | Number |
+| AddressShip | Number |
+| AddressBill | Number |
+| CardExp | Number |
+| CVV | Number |
+| SoldTime | DateTime |
+| OrderTime | DateTime |
+
+## **Networking**
+- Home Feed Screen
+	- (Read/GET) Show most recently added instruments
+	- (Create/POST) send request to buy / rent instrument
+	- (Create/POST) send request to repair instrument
+	- (Create/POST) send request to sell instrument
+- Catalog Screen
+	- (Read/GET) 
+	- (Read/GET) Scroll through instruments that match search
+	- (Create/POST) add instrument to wishlist
+	- (Delete) delete instrument from wishlist
