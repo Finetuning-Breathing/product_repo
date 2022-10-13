@@ -79,32 +79,37 @@ Optional:
 Post
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| UserEmail  | String |
-| UserPass | String |
-| UserImg | file |
+| UserEmail  | String | Email of User |
+| UserPass | String | Password of User |
+| UserImg | file | user profile image |
 | CardNum | Number |
 | AddressShip | Number |
 | AddressBill | Number |
 | CardExp | Number |
 | CVV | Number |
-| SoldTime | Number |
-| OrderTime | Number |
+| SoldTime | Date and time |
+| OrderTime | Date and time |
+| Inventory | Array |
+
+Create/POST
+Read/GET
+Update/PUT
+Delete/DELETE
 
 ## **Networking**
 - Login Screen
-	- (Create/POST) create new user account
+	- (Create/POST) create new user account if not logged in
+	- (Get/PUT) log in with another account
 - Home Screen
-	- (Read/GET) Show most recently added instruments
-	- (Create/POST) send request to buy / rent instrument
-	- (Create/POST) send request to repair instrument
-	- (Create/POST) send request to sell instrument
+	- (Read/GET) Query instruments in inventory
+	- (Read/GET) Query instrument in inventory according to search filters
+	- (Delete/DELETE) Log out of account
 - Instrument View Screen
-	- (Read/GET) 
-	- (Read/GET) Scroll through instruments that match search
+	- (Read/GET) Show instrument data (name, description, and price)
 - Buy/Rent Screen
-	- a
+	- (Create/POST) send request to buy / rent instrument
+	- (Delete/DELETE) cancel buy/rent action
 - Repair/Service Screen
 	- a
 - Sell Screen
 	- paosdpa
-	
