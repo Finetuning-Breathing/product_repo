@@ -87,17 +87,24 @@ Post
 | AddressBill | Number |
 | CardExp | Number |
 | CVV | Number |
-| SoldTime | DateTime |
-| OrderTime | DateTime |
+| SoldTime | Number |
+| OrderTime | Number |
 
 ## **Networking**
-- Home Feed Screen
+- Login Screen
+	- (Create/POST) create new user account
+- Home Screen
 	- (Read/GET) Show most recently added instruments
 	- (Create/POST) send request to buy / rent instrument
 	- (Create/POST) send request to repair instrument
 	- (Create/POST) send request to sell instrument
-- Catalog Screen
+- Instrument View Screen
 	- (Read/GET) 
 	- (Read/GET) Scroll through instruments that match search
-	- (Create/POST) add instrument to wishlist
-	- (Delete) delete instrument from wishlist
+- Buy/Rent Screen
+	- a
+- Repair/Service Screen
+	- a
+- Sell Screen
+	- paosdpa
+	
