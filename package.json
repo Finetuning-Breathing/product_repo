@@ -1,0 +1,27 @@
+{
+  "name": "finetuning",
+  "version": "1.0.0",
+  "description": "music store webiste",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finetuning-Breathing/product_repo.git"
+  },
+  "keywords": [
+    "finetuning"
+  ],
+  "author": "brandonb19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Finetuning-Breathing/product_repo/issues"
+  },
+  "homepage": "https://github.com/Finetuning-Breathing/product_repo#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
+  }
+}

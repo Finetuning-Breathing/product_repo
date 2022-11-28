@@ -1,0 +1,29 @@
+.loginContainer {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+
+    background: -webkit-linear-gradient(30deg, #78747a 45%, #664d7398 20%);
+    background: -o-linear-gradient(30deg, #78747a 45%, #664d7398 20%);
+    background: -moz-linear-gradient(30deg, #78747a 45%, #664d7398 20%);
+    background: linear-gradient(30deg, #78747a 45%, #664d7398 20%);
+}
+
+.loginFormDiv {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    margin: 0 auto;
+    background-color: rgba(78, 73, 80, 0.984);
+    border-radius: 10px;
+    margin-top: 80px;
+    padding: 56.3px;
+    width: 35%;
+
+    border-style: solid;
+    border-color: #dfd7e3b7;
+
+    font-family: 'JetBrains Mono';
+    font-size: 140%;
+}

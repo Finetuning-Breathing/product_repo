@@ -1,0 +1,62 @@
+.detailsContainer {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+
+    background: linear-gradient(-120deg, #664d73d7 30%, rgba(175, 162, 162, 0) 26%), url('../../img/geets.jpg');
+}
+
+.detailsDataDiv {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-style: solid;
+    border-radius: 22px;
+    border-color: #cfbdbd;
+    width: fit-content;
+}
+
+.detailsTitleDiv {
+    border-radius: 20px;
+    font-family: "Jetbrains Mono";
+    font-size: 23px;
+    color: #e7dddd;
+    background: -webkit-linear-gradient(150deg, #5d595f 45%, #6a477b 20%);
+    background: -o-linear-gradient(150deg, #5d595f 45%, #6a477b 20%);
+    background: -moz-linear-gradient(150deg, #5d595f 45%, #6a477b 20%);
+    background: linear-gradient(150deg, #5d595f 45%, #6a477b 20%);
+    padding: 10px;
+}
+
+.detailsTitle {
+    background-color: #8c7698;
+    border-color: #a39c9cca;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.detailsImgDiv {
+    padding: 20px;
+}
+
+.detailsImg {
+    display: flex;
+    margin: 0 auto;
+    /* float: left; */
+    /* padding: 5px; */
+    border-style: solid;
+    border-radius: 8%;
+}
+
+.detailsParagraph {
+    background-color: #8c7698;
+    border-color: #a39c9cca;
+    padding: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+}
