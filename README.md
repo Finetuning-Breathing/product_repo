@@ -81,7 +81,6 @@ Post
 |------------|--------|---------------|
 | UserEmail  | String | Email of User |
 | UserPass | String | Password of User |
-| UserImg | file | user profile image |
 | CardNum | Number |
 | AddressShip | Number |
 | AddressBill | Number |
