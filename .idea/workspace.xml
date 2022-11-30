@@ -2,96 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="Pull">
-      <change beforePath="$PROJECT_DIR$/finetuning/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/images/.idea/images.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/0002667_yamaha-rydeen-5pc-drumkit-hot-red_400.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/1.-Yamaha-Drum-Event-Facebook-African-Drummer_Jan-24-Distributor-e-poster-1-1-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Amplifiers-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Audio-Visual-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Behringer-XD8USB-whole.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Brass-Woodwinds-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/C40-1-e1590468961635.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/C40BL-e1590468909279.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/C40M.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/C45-1-e1590469067370.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/CDJ-3000.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/CM40.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/CPK-5070-7-600x600-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/CS-40-1-e1590469109696.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/DJ-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/DJM-S9-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/DTX402-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/DTX425-1-640x640.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/DTX453-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/EAD10_540x540_735x735_9b97693cd6224fc98e6bd73c929c518e.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Guitars-Basses-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-10.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Logos-Of-Suppliers-copy-9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Microphones-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Percussion-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Pioneer-DJ_logo-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Polished-White-Yamaha-GB1K-Grand-Piano.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Stage-Custom-640x525.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Synthesizers--640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/TRBX-174-e1590468768294.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/TRBX-204.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/TRBX-305-1-e1590468877276.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/V3-SKA-12-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/XD80USB-Behringer-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/Yamaha-PSR-%E2%80%93-SX-600.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/adm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/connector.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/d80c5e98-cadc-44dd-a49a-cba0ca8e856b-1-1-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/drums-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/dtx-multipad-1-640x640.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/logo1x2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/logom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/piano-2-640x477.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/screencapture-127-0-0-1-5500-search-html-2021-04-20-19_51_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/slider-5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/viber-image.jpg1_.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/img/yamaha-final-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/Account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/Cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/IDetails.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/Sell.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/Services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/alto-sax.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/CartCSS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/Gotham-Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/RepairStylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/Screen1Stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/SellCSS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/bg-main.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/gotham-rounded-light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/normalizer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/searchCSS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/css/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/flc_design2022100472759.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/repairdrum.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finetuning/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/IDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/IDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/finetuning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -124,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.17.1&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.3&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.17.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.4",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/PostOffer" />
@@ -147,7 +60,10 @@
       <recent name="$PROJECT_DIR$/src/components/Home" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="IDetails.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/product_repo/public copy/IDetails.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/product_repo/public copy/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -166,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.IDetails.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -183,6 +100,7 @@
       <workItem from="1669847191656" duration="625000" />
       <workItem from="1669848559596" duration="868000" />
       <workItem from="1669849484441" duration="239000" />
+      <workItem from="1669850435774" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="Pull">
       <created>1669655449363</created>
