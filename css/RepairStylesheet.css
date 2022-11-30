@@ -1,0 +1,22 @@
+.welcome-text-wrapper {
+    border: 50px;
+
+
+}
+.retail-info-box {
+    padding: 50px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+body {
+    font-family: American Typewriter, serif;;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333333;
+}
+
+
