@@ -89,6 +89,7 @@ Product
 | Instrument | string | Name of Instrument |
 | Type | string | Type of Instrument |
 |Instrument_id | string | Instrument's ID |
+| Brand | string | Instrument's Brand |
 | Price | double | Instrument's Price |
 | Rating | int | Instrument's Rating |
 
