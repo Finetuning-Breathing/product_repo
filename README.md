@@ -76,20 +76,22 @@ Optional:
 ## Schema
 
 ### **Models**
-Post
+User
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
+| username | string | Name of User |
 | UserEmail  | String | Email of User |
 | UserPass | String | Password of User |
-| UserImg | file | user profile image |
-| CardNum | Number |
-| AddressShip | Number |
-| AddressBill | Number |
-| CardExp | Number |
-| CVV | Number |
-| SoldTime | Date and time |
-| OrderTime | Date and time |
-| Inventory | Array |
+
+Product
+|**Property**|**Type**|**Description**|
+|------------|--------|---------------|
+| Instrument | string | Name of Instrument |
+| Type | string | Type of Instrument |
+|Instrument_id | string | Instrument's ID |
+| Price | double | Instrument's Price |
+| Rating | int | Instrument's Rating |
+
 
 Create/POST
 Read/GET
