@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="Pull">
+      <change afterPath="$PROJECT_DIR$/finetuning/.idea/finetuning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finetuning/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/images/.idea/images.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/img/0002667_yamaha-rydeen-5pc-drumkit-hot-red_400.jpeg" beforeDir="false" />
@@ -92,6 +95,10 @@
       <change beforePath="$PROJECT_DIR$/finetuning/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/Cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/Cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/Sell.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/Sell.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/Services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +115,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/finetuning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -183,6 +190,7 @@
       <workItem from="1669847191656" duration="625000" />
       <workItem from="1669848559596" duration="868000" />
       <workItem from="1669849484441" duration="239000" />
+      <workItem from="1669849760521" duration="2106000" />
     </task>
     <task id="LOCAL-00001" summary="Pull">
       <created>1669655449363</created>
