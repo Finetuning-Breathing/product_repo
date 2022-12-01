@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="added back4app app id and rest id" />
+    <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="added back4app app id and rest id">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "16.17.0",
     "javascript.nodejs.core.library.typings.version": "16.18.4",
-    "last_opened_file_path": "C:/Users/Yonathan Torres/IdeaProjects/nytimesbestsellers",
+    "last_opened_file_path": "C:/Users/Yonathan Torres/IdeaProjects/finetuning_project",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
@@ -66,8 +68,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.IDetails.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.IDetails.html" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +89,7 @@
       <workItem from="1669850435774" duration="1158000" />
       <workItem from="1669852007386" duration="36000" />
       <workItem from="1669910865468" duration="3360000" />
+      <workItem from="1669917142682" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Pull">
       <created>1669655449363</created>
