@@ -93,26 +93,19 @@ Product
 | Price | double | Instrument's Price |
 | Rating | int | Instrument's Rating |
 
-
-Create/POST
-Read/GET
-Update/PUT
-Delete/DELETE
-
 ## **Networking**
 - Login Screen
-	- (Create/POST) create new user account if not logged in
-	- (Get/PUT) log in with another account
+	- (POST) create new user account
+	- (GET) log into existing account
 - Home Screen
-	- (Read/GET) Query instruments in inventory
-	- (Read/GET) Query instrument in inventory according to search filters
-	- (Delete/DELETE) Log out of account
+	- (GET) Query instruments in inventory
+	- (GET) Query instrument in inventory according to search filters
 - Instrument View Screen
-	- (Read/GET) Show instrument data (name, description, and price)
+	- (GET) Show instrument data (name, description, and price)
 - Buy/Rent Screen
-	- (Create/POST) send request to buy / rent instrument
-	- (Delete/DELETE) cancel buy/rent action
+	- (GET) send request to buy / rent instrument(s)
+	- (DELETE) buy/rent confirmation on instrument(s)
 - Repair/Service Screen
-	- a
+	- (POST) submitted repair form
 - Sell Screen
-	- paosdpa
+	- (POST) enter new instrument into inventory
