@@ -81,7 +81,7 @@ User
 |------------|--------|---------------|
 | username | string | Name of User |
 | email  | String | Email of User |
-| UserPass | String | Password of User |
+| password | String | Password of User |
 
 Product
 |**Property**|**Type**|**Description**|
@@ -92,6 +92,13 @@ Product
 | Brand | string | Instrument's Brand |
 | Price | double | Instrument's Price |
 | Rating | int | Instrument's Rating |
+
+Repair
+|**Property**|**Type**|**Description**|
+|------------|--------|---------------|
+| Name | string | Name of Instrument |
+| Desc | string | Description of Instrument's problems |
+
 
 ## **Networking**
 - Login Screen
