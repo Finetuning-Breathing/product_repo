@@ -87,11 +87,11 @@ Product
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
 | Instrument | string | Name of Instrument |
-| Type | string | Type of Instrument |
-|Instrument_id | string | Instrument's ID |
+| Desc | string | Description of Instrument |
 | Brand | string | Instrument's Brand |
 | Price | double | Instrument's Price |
 | Rating | int | Instrument's Rating |
+| Tags | array | Product tags for filtering |
 
 Repair
 |**Property**|**Type**|**Description**|
@@ -99,16 +99,15 @@ Repair
 | Name | string | Name of Instrument |
 | Desc | string | Description of Instrument's problems |
 
-
 ## **Networking**
 - Login Screen
 	- (POST) create new user account
 	- (GET) log into existing account
 - Home Screen
-	- (GET) Query instruments in inventory
-	- (GET) Query instrument in inventory according to search filters
+	- (GET) Query first five instruments of a specific tag (ex. top 5 woodwinds)
 - Instrument View Screen
 	- (GET) Show instrument data (name, description, and price)
+	- (GET) Query instrument in inventory according to search filters
 - Buy/Rent Screen
 	- (GET) send request to buy / rent instrument(s)
 	- (DELETE) buy/rent confirmation on instrument(s)
