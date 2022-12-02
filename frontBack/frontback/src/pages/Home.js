@@ -80,6 +80,7 @@ class Home extends Component {
 
   render() {
     return (
+        <div>
       <Row>
         {" "}
         {this.state.sneaks.map((sneak, i) => (
@@ -91,8 +92,9 @@ class Home extends Component {
           />
         ))}
       </Row>
+        </div>
     );
   }
 }
 
-    export default withRouter(Home);
+export default withRouter(Home);
