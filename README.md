@@ -80,39 +80,38 @@ User
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
 | username | string | Name of User |
-| UserEmail  | String | Email of User |
-| UserPass | String | Password of User |
+| email  | String | Email of User |
+| password | String | Password of User |
 
 Product
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
 | Instrument | string | Name of Instrument |
-| Type | string | Type of Instrument |
-|Instrument_id | string | Instrument's ID |
+| Desc | string | Description of Instrument |
 | Brand | string | Instrument's Brand |
 | Price | double | Instrument's Price |
 | Rating | int | Instrument's Rating |
+| Tags | array | Product tags for filtering |
 
-
-Create/POST
-Read/GET
-Update/PUT
-Delete/DELETE
+Repair
+|**Property**|**Type**|**Description**|
+|------------|--------|---------------|
+| Name | string | Name of Instrument |
+| Desc | string | Description of Instrument's problems |
 
 ## **Networking**
 - Login Screen
-	- (Create/POST) create new user account if not logged in
-	- (Get/PUT) log in with another account
+	- (POST) create new user account
+	- (GET) log into existing account
 - Home Screen
-	- (Read/GET) Query instruments in inventory
-	- (Read/GET) Query instrument in inventory according to search filters
-	- (Delete/DELETE) Log out of account
+	- (GET) Query first five instruments of a specific tag (ex. top 5 woodwinds)
 - Instrument View Screen
-	- (Read/GET) Show instrument data (name, description, and price)
+	- (GET) Show instrument data (name, description, and price)
+	- (GET) Query instrument in inventory according to search filters
 - Buy/Rent Screen
-	- (Create/POST) send request to buy / rent instrument
-	- (Delete/DELETE) cancel buy/rent action
+	- (GET) send request to buy / rent instrument(s)
+	- (DELETE) buy/rent confirmation on instrument(s)
 - Repair/Service Screen
-	- a
+	- (POST) submitted repair form
 - Sell Screen
-	- paosdpa
+	- (POST) enter new instrument into inventory
