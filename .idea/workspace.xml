@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="added back4app app id and rest id" />
+    <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="new folder to start react environment">
+      <change beforePath="$PROJECT_DIR$/frontBack/test" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +51,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Bibi\FAMU\Fall2022\concepts\product_repo\product_repo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Bibi\FAMU\Fall2022\concepts\product_repo\product_repo\frontBack" />
       <recent name="$PROJECT_DIR$/src/components/PostOffer" />
       <recent name="$PROJECT_DIR$/src/components/EditOffer" />
       <recent name="$PROJECT_DIR$/src/components/ErrorPage" />
       <recent name="$PROJECT_DIR$/src/components/Nav" />
-      <recent name="$PROJECT_DIR$/src/components/Home" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -88,7 +93,7 @@
       <workItem from="1669852007386" duration="36000" />
       <workItem from="1669910865468" duration="3360000" />
       <workItem from="1669917142682" duration="644000" />
-      <workItem from="1669955147179" duration="15000" />
+      <workItem from="1669955147179" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Pull">
       <created>1669655449363</created>
@@ -125,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669914249971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new folder to start react environment">
+      <created>1669955223137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669955223137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +174,7 @@
     <MESSAGE value="Pull" />
     <MESSAGE value="fixed links and html tags" />
     <MESSAGE value="added back4app app id and rest id" />
-    <option name="LAST_COMMIT_MESSAGE" value="added back4app app id and rest id" />
+    <MESSAGE value="new folder to start react environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new folder to start react environment" />
   </component>
 </project>
