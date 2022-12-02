@@ -4,6 +4,7 @@
     <list default="true" id="907e0521-66c5-4d4f-87bc-480c783515d7" name="Changes" comment="Pull">
       <change afterPath="$PROJECT_DIR$/finetuning/.idea/finetuning.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/finetuning/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/images/.idea/images.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/img/0002667_yamaha-rydeen-5pc-drumkit-hot-red_400.jpeg" beforeDir="false" />
@@ -94,6 +95,7 @@
       <change beforePath="$PROJECT_DIR$/finetuning/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/finetuning/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public copy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public copy/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,25 +151,16 @@
       <recent name="$PROJECT_DIR$/src/components/Home" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Services.html">
+    <configuration name="Services.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/product_repo/public copy/Services.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/product_repo/public copy/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="product_repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="product_repo" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Services.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -186,6 +179,8 @@
       <workItem from="1669848559596" duration="868000" />
       <workItem from="1669849484441" duration="239000" />
       <workItem from="1669849760521" duration="2432000" />
+      <workItem from="1669852620052" duration="2156000" />
+      <workItem from="1669938498334" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="Pull">
       <created>1669655449363</created>
