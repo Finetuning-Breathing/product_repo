@@ -80,8 +80,8 @@ User
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
 | username | string | Name of User |
-| email  | String | Email of User |
-| password | String | Password of User |
+| email  | string | Email of User |
+| password | string | Password of User |
 
 Product
 |**Property**|**Type**|**Description**|
