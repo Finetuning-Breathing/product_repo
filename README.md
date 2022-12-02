@@ -79,39 +79,41 @@ Optional:
 User
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| username | string | Name of User |
-| email  | String | Email of User |
-| password | String | Password of User |
+| username | String | Name of user |
+| email  | String | Email of user |
+| password | String | Password of user |
 
 Product
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| Instrument | string | Name of Instrument |
-| Desc | string | Description of Instrument |
-| Brand | string | Instrument's Brand |
-| Price | double | Instrument's Price |
-| Rating | int | Instrument's Rating |
-| Tags | array | Product tags for filtering |
+| Instrument | String | Name of instrument |
+| Desc | String | Description of instrument |
+| Brand | String | Instrument's brand |
+| Price | Decimal | Instrument's sell price |
+| Rating | Integer | Instrument's quality rating |
+| Tags | Array | Product tags for filtering |
+| InCart | Boolean | Cart indicator |
 
 Repair
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| Name | string | Name of Instrument |
-| Desc | string | Description of Instrument's problems |
+| Name | String | Name of Instrument |
+| Desc | String | Description of Instrument's problems |
 
 ## **Networking**
 - Login Screen
 	- (POST) create new user account
+	- (PUT) change forgotten password
 	- (GET) log into existing account
 - Home Screen
-	- (GET) Query first five instruments of a specific tag (ex. top 5 woodwinds)
+	- (GET) Query first few instruments of a specific tag(ex. top 5 woodwinds)
 - Instrument View Screen
 	- (GET) Show instrument data (name, description, and price)
 	- (GET) Query instrument in inventory according to search filters
 - Buy/Rent Screen
-	- (GET) send request to buy / rent instrument(s)
-	- (DELETE) buy/rent confirmation on instrument(s)
+	- (PUT) add instrument(s) to cart to buy/rent
+	- (PUT) remove items from cart
 - Repair/Service Screen
-	- (POST) submitted repair form
+	- (POST) submit repair information as new object in Repair class
 - Sell Screen
-	- (POST) enter new instrument into inventory
+	- (POST) enter new instrument into Products class
