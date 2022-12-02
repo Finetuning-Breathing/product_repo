@@ -1,24 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import {AuthProvider} from "./context/AuthContext";
+import {Container} from "react-bootstrap";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
+import React from "react";
+import Header from "./components/NavBar";
+import Home from './pages/Home';
+import UsersList from './pages/UsersList';
+import Orders from './pages/Orders';
+import ForSale from './pages/ForSale';
+import MessagesList from './pages/MessagesList';
+import Cart from './pages/Cart';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <AuthProvider>
+        <Header />
+        <Container>
+          <BrowserRouter>
+            <Routes>
+              <Route exact path="/login" component={Login} />
+              <Route exact path="/register" component={Register} />
+              <Route exact path="/admin" component={UsersList} />
+              <Route exact path="/orders" component={Orders} />
+              <Route exact path="/seller" component={ForSale} />
+              <Route exact path="/messages" component={MessagesList} />
+              <Route exact path="/cart" component={Cart} />
+              <Route exact path="/" component={Home} />
+            </Routes>
+          </BrowserRouter>
+        </Container>
+      </AuthProvider>
   );
 }
 
