@@ -79,7 +79,7 @@ Optional:
 User
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| username | string | Name of user |
+| username | String | Name of user |
 | email  | String | Email of user |
 | password | String | Password of user |
 
@@ -97,8 +97,8 @@ Product
 Repair
 |**Property**|**Type**|**Description**|
 |------------|--------|---------------|
-| Name | string | Name of Instrument |
-| Desc | string | Description of Instrument's problems |
+| Name | String | Name of Instrument |
+| Desc | String | Description of Instrument's problems |
 
 ## **Networking**
 - Login Screen
