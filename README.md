@@ -19,10 +19,16 @@ A world-wide web application where customers can buy/sell music instruments and 
 ### 1.	User Stories (Required/Optional)
 #### **Required Must-Have Stories**
 - User logs in to access preference settings
-- User can pick their favorite ensemble (woodwinds, brass, percussion)
-- User can sell instruments to receive a reasonable price
+- User can pick their favorite ensemble (woodwinds, brass, percussion)/ User can search
+ - User can choose filters
+ - User can choose an instrument
+  - User can comment on instrument
+  - User can like insrument
+  - User can rate an instrument
 - User can buy/rent instruments & accessories for a reasonable price
-- User can select the service option to explain to the company what’s wrong with the instrument and needs to be fixed (this can also be used as product reselling)
+- User can request repair service
+- User can sell instruments at a reasonable price
+ - User can input in their address and billing and sumbit
 
 #### **Optional Nice-to-have Stories**
 - User logs in to see their previous payments/search history
